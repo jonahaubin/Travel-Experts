@@ -9,7 +9,7 @@
     <!-- Landing Page -->
     <div class="titlebg">
         <div class="titlebox">
-                <img src="logo.png">
+                <img src="img/logo.png">
 	            <h1>Travel Experts</h1>
                 <p class="subtitle">we get you where you want to be</p>
 		   </div>
@@ -22,7 +22,7 @@
 
     <section>
 		<article>
-			<img src="beach.jpeg" />
+			<img src="img/beach.jpeg" />
 			<div class="artcontent">
 				<h2>Breathtaking Packages</h2>
 				<p>
@@ -36,7 +36,7 @@
 			</div>
 		</article>
 		<article class="oddart">
-			<img src="agents.jpg" />
+			<img src="img/agents.jpg" />
 			<div class="artcontent">
 				<h2>Top Agents</h2>
 				<p>
@@ -49,7 +49,7 @@
 			</div>
 		</article>
 		<article>
-			<img src="Sunrise_view_from_a_plane.jpg" />
+			<img src="img/Sunrise_view_from_a_plane.jpg" />
 			<div class="artcontent">
 				<h2>Track Your Bookings</h2>
 				<p>
